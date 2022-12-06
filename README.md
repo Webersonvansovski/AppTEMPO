@@ -24,3 +24,5 @@
    - cria a função pegar tempo
    - request na api Openweathermap 
    - fecha a janela
+
+![2022-12-06](https://user-images.githubusercontent.com/116174741/205994406-81c0d76d-13c2-4941-b274-1f96cb967b42.png)
